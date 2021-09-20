@@ -1,0 +1,24 @@
+body {
+  font-family: system-ui;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+.image{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.tribute-info{
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+  line-height: 1.5em;
+}
+
+.quote, .citation{
+  font-style: italic;
+}
